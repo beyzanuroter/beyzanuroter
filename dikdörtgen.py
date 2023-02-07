@@ -5,3 +5,6 @@ cevre = (int(uzunKenar)+int(kısaKenar))*2
 alan = int(uzunKenar)*int(kısaKenar)
 print("Çevre:",cevre)
 print("Alan:",alan)
+
+
+
